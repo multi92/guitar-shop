@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Fender-electric",
+        "price": 189.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Stratocaster bass-guitar",
+        "price": 220.99,
+        "image": { "fields": { "file": { "url":"./guitar/miske2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Jackson X Series Rhoads RRX24",
+        "price": 999.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske3.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Charvel Pro-Mod Joe Duplantier San Dimas Style",
+        "price": 224.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske4.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Schecter Omen-8",
+        "price": 288.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "EVH Wolfgang Standard",
+        "price": 599.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske6.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Fender Jim Root Jazzmaster",
+        "price": 455.99,
+        "image": { "fields": { "file": { "url": "./guitar/miske7.png"} } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Ibanez Standard RGA42FM",
+        "price": 433.99,
+        "image": { "fields": { "file": { "url":"./guitar/miske8.png" } } }
+      }
+    }
+  ]
+}
